@@ -1,27 +1,29 @@
 # Student Performance Analysis Dashboard
 
+## Dashboard Preview
+
 ## Project Overview
-This project analyzes student academic performance using Power BI.
+This project analyzes student academic performance using Microsoft Power BI.
 
 ## Tools Used
-- Power BI Desktop
-- Power Query
+- Power BI
 - CSV Dataset
+- Power Query
+- DAX
 
-## Dashboard Features
-- Total Students KPI
-- Average Final Grade
+## KPIs
+- Total Students
+- Average Final Grade (G3)
 - Average Absences
-- Average Study Time
-- Grade by Gender
-- Grade by Study Time
-- Grade by School
-- Student Distribution
-- Absences vs Final Grade
-- Interactive Slicers
 
-## Dataset
-Student Performance Dataset (CSV)
+## Visualizations
+- Average Grade by Gender
+- Average Grade by Study Time
+- Average Grade by School
+- Scatter Plot (Absences vs Grades)
+- Slicers (Gender, School, Study Time)
 
-## Author
-Sufiyan Siddiqui
+## Files
+- student data 2.pbix
+- student_data.csv
+- dashboard.png
